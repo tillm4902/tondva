@@ -47,4 +47,4 @@ async def on_ready():
     await client.send_message(client.get_channel('543604746968367104'), "Nudes retrieved. :kissing_heart:")
     # async client.send_message(client.get_channel('195155264574324748'),"I'm done something else daddy!")
 
-client.run('MjAxNDA5OTYxNTg1MTQ3OTA0.DzOzfw.tF3GeoQUli39rHmio2BUMNnDdS4')
+client.run('token')

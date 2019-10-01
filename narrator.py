@@ -94,4 +94,4 @@ async def on_message(message):
         except:
             await client.send_message(message.channel, "Nah, Discord didn't like that one fam. :triumph:")
 
-client.run('MjAxNDA5OTYxNTg1MTQ3OTA0.DzOzfw.tF3GeoQUli39rHmio2BUMNnDdS4')
+client.run('token')
