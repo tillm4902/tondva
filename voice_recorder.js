@@ -52,7 +52,7 @@ client.on('message', msg => {
   }
 });
 
-client.login('MjAxNDA5OTYxNTg1MTQ3OTA0.DzOzfw.tF3GeoQUli39rHmio2BUMNnDdS4');
+client.login('token');
 
 client.on('ready', () => {
   console.log('ready!');
